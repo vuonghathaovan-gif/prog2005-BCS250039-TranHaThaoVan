@@ -2,7 +2,7 @@
 so_nguyen = 250039
 
 # Tạo biến số thực (float)
-so_thuc = 25,0039
+so_thuc = 25.0039
 
 # Tạo biến chuỗi (string)
 chuoi = "TranHaThaoVan BCS250039"
