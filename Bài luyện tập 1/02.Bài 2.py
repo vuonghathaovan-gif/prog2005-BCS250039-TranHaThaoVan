@@ -1,0 +1,7 @@
+num1 = float(input("Nhập số 1: "))
+num2 = float(input("Nhập số 2: "))
+print(f"Lũy thừa: {num1**num2}")
+print(f"Căn bậc 2 của {num1}: {num1**0.5}")
+print(f"Chia lấy phần nguyên: {num1//num2}")
+print(f"Chia lấy phần dư:{num1%num2}")
+print(f"Làm tròn : {round(num1)}")
